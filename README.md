@@ -14,7 +14,10 @@
 
 - 👨‍💻 All of my projects are available at **under construction**
 
+
 - 📫 How to reach me **[salihasd99@gmail.com](mailto:salihasd99@gmail.com)**
+
+- <div align="center"><img src="https://komarev.com/ghpvc/?username=ahmeth-sd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeth-sd" /></div>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
