@@ -6,8 +6,6 @@
 
 <h3 align="center">I'm a passionate computer science. Welcome to my GitHub profile!</h3>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=oguzcanizanli&label=Profile%20views&color=0e75b6&style=flat" alt="oguzcanizanli" /></div>
-
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="180">
 
 - 🌱 I’m currently learning **Java Spring and Python for Data Science**
@@ -49,18 +47,18 @@
     <td>
         <a href="https://github.com/ahmeth-sd">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oguzcanizanli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oguzcanizanli&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oguzcanizanli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmeth-sd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmeth-sd&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmeth-sd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
           </picture>
         </a>
     </td>
     <td>
         <a href="https://github.com/ahmeth-sd">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcanizanli&theme=radical&layout=compact" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcanizanli" />
-            <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcanizanli&theme=radical&layout=compact" alt="Top Langs" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeth-sd&theme=radical&layout=compact" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeth-sd" />
+            <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeth-sd&theme=radical&layout=compact" alt="Top Langs" />
           </picture>
         </a>
     </td>
