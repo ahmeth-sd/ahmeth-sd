@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<img src="./images/hello-world.png" alt="Hello World" width="100%">
  
 <h1 align="center">Hello, I'm Ahmet Salih! 👋</h1>
 
