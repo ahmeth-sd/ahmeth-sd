@@ -2,22 +2,22 @@
  
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/73038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="180">
+Computer Engineer passionate about building secure and scalable backend systems, IoT devices, and mobile applications.
 
-- 🌱 I’m currently working on **Flutter projects**
+🔧 Worked with Java Spring Boot, Flutter, and ESP32.  
+📡 Built connected systems using BLE, REST APIs, and embedded software.  
+🌍 Enjoys solving real-world problems with clean code and smart architecture.
 
-- 📫 How to reach me **[salihasd99@gmail.com](mailto:salihasd99@gmail.com)**
+Feel free to explore my projects below 🚀
+
+- 📫 How to reach me: [salihasd99@gmail.com](mailto:salihasd99@gmail.com)
+
+- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/ahmetsalih-dag/)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=ahmeth-sd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeth-sd" /></div>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">📫 Connect with me:</h3>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ahmetsalih-dag/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</div>
 
 <h3 align="left">⚡ Languages and Tools:</h3>
 
