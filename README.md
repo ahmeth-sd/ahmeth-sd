@@ -167,33 +167,6 @@
 
 
 
-
-
-<h3 align="left">📊 Github Stats:</h3>
-
-<table width="100%">
-  <tr>
-    <td>
-        <a href="https://github.com/ahmeth-sd">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmeth-sd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmeth-sd&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <img height="200" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmeth-sd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-          </picture>
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/ahmeth-sd">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeth-sd&theme=radical&layout=compact" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeth-sd" />
-            <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeth-sd&theme=radical&layout=compact" alt="Top Langs" />
-          </picture>
-        </a>
-    </td>
-  </tr>
-</table>
-
 <!-- My Projects
 Here are some of the projects I'm proud of:
 [Project Name](Link to Project Repository) - Description of the project.
